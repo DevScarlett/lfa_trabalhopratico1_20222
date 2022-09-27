@@ -5,7 +5,3 @@
 
 ### Linguagem utilizada: Python
 
-#'Tarefas'
-### 06/09/2022  - Leitura do arquivo
-### 15/09/200 - Tratar automato e divi-lo
-### 20/09/2022 - validar palavra - gerar grafico
